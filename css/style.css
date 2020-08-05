@@ -1,0 +1,97 @@
+body{
+  background-color: #ddd;
+}
+
+#header-img{
+ 
+  width: 300px;
+}
+
+.nav-bar{
+  justify-content: space-between;
+
+}
+
+ul{
+  list-style: none;
+}
+
+.nav-link{
+  margin-left: 10px;
+}
+
+.flex{
+  display: flex;
+}
+
+.handcraft{
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.handcraft input{
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  background-color:white;
+  border:none;
+}
+
+button{
+  padding :10px 15px;
+  background-color: yellow;
+  font-weight: bolder;
+  border: none;
+}
+
+.container{
+  width: 70%;
+  margin: 0 auto;
+}
+
+iframe{
+  margin-top:40px;
+}
+
+.container-2{
+  width: 90%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 20px auto;
+
+}
+
+.price{
+  width: 80%;
+  border: 2px solid;
+}
+
+.price-heading{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.head{
+  background-color: rgb(182, 180, 180);
+  width: 100%;
+  padding-top: 20px;
+}
+
+.head h4{
+  text-align: center;
+  margin: auto;
+}
+
+footer{
+  background-color: rgb(185, 185, 185);
+  bottom: 0;
+}
+
+footer ul li{
+  margin-left: 10px;
+}
+
+footer div{
+  position: relative;
+  margin-left: 700px;
+}
